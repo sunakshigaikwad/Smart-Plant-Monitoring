@@ -23,5 +23,5 @@ This project is an **IoT-based Smart Plant Monitoring System** using:
 ## Repository Link 🔗
 _[GitHub Repository](https://github.com/sunakshigaikwad/Smart-Plant-Monitoring)_
 
-![Circuit Diagram](images/Circuit%20Diagram/circuit-diagram.jpg)
+![Circuit Diagram](images/Circuit-Diagram\Slide1.JPG")
 
